@@ -1,4 +1,3 @@
-# beacon-service-analytics-collection
 
 
 This is a Spring Boot app to demonstrate sending and receiving of messages in Kafka using spring-kafka.
